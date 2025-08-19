@@ -60,7 +60,7 @@ export default function ClientsPage() {
       preferredLanguages: ["Spanish", "French", "German"],
       notes: "Premium client with consistent high-volume projects. Prefers expedited delivery.",
       recentProjects: [
-        { id: "PRJ-001", title: "Website Translation", status: "In Progress", value: 650.4 },
+        { id: "PRJ-2025-231", title: "Website Translation", status: "In Progress", value: 650.4 },
         { id: "PRJ-015", title: "Product Manual", status: "Completed", value: 1200.0 },
         { id: "PRJ-012", title: "Marketing Materials", status: "Completed", value: 890.5 },
       ],
@@ -86,7 +86,7 @@ export default function ClientsPage() {
       preferredLanguages: ["French", "Italian", "Portuguese"],
       notes: "Fast-growing agency with seasonal campaign needs. Very responsive to communications.",
       recentProjects: [
-        { id: "PRJ-002", title: "Campaign Materials", status: "Review", value: 480.0 },
+        { id: "PRJ-2025-230", title: "Campaign Materials", status: "Review", value: 480.0 },
         { id: "PRJ-018", title: "Social Media Content", status: "Completed", value: 320.0 },
       ],
       logo: "/client-CLI-002.png",
@@ -111,7 +111,7 @@ export default function ClientsPage() {
       preferredLanguages: ["German", "Spanish", "Mandarin"],
       notes: "Specialized legal translations requiring certified accuracy. Long-term partnership.",
       recentProjects: [
-        { id: "PRJ-003", title: "Contract Translation", status: "Completed", value: 1602.0 },
+        { id: "PRJ-2025-229", title: "Contract Translation", status: "Completed", value: 1602.0 },
         { id: "PRJ-020", title: "Legal Documents", status: "Completed", value: 2100.0 },
       ],
       logo: "/client-CLI-003.png",

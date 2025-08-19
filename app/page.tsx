@@ -98,7 +98,7 @@ export default function Dashboard() {
                 <div className="space-y-4">
                   {[
                     {
-                      id: "PRJ-001",
+                      id: "PRJ-2025-231",
                       client: "TechCorp Inc.",
                       language: "EN → ES",
                       status: "In Progress",
@@ -106,7 +106,7 @@ export default function Dashboard() {
                       priority: "High",
                     },
                     {
-                      id: "PRJ-002",
+                      id: "PRJ-2025-230",
                       client: "Global Marketing",
                       language: "EN → FR",
                       status: "Review",
@@ -114,7 +114,7 @@ export default function Dashboard() {
                       priority: "Medium",
                     },
                     {
-                      id: "PRJ-003",
+                      id: "PRJ-2025-229",
                       client: "Legal Associates",
                       language: "DE → EN",
                       status: "Completed",
@@ -227,7 +227,7 @@ export default function Dashboard() {
                   <AlertCircle className="h-4 w-4 text-red-500 mt-0.5" />
                   <div>
                     <p className="text-sm font-medium text-red-800">Urgent Deadline</p>
-                    <p className="text-xs text-red-600">PRJ-001 due in 2 days</p>
+                    <p className="text-xs text-red-600">PRJ-2025-231 due in 2 days</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-3 p-3 bg-yellow-50 rounded-lg">
