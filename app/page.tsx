@@ -51,7 +51,7 @@ export default function Dashboard() {
             <CardContent>
               <div className="text-2xl font-bold">156</div>
               <p className="text-xs text-muted-foreground">
-                <span className="text-green-600">+8</span> new this month
+                <span className="text-green-600">+4</span> new clients this month
               </p>
             </CardContent>
           </Card>
@@ -122,7 +122,7 @@ export default function Dashboard() {
                       priority: "Low",
                     },
                     {
-                      id: "PRJ-004",
+                      id: "PRJ-2025-232",
                       client: "Medical Corp",
                       language: "EN → JA",
                       status: "Assigned",
